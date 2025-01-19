@@ -1,0 +1,11 @@
+{
+  "ip": "localhost",
+  "port": 27017,
+  "baseDeDades": "casino",
+  "collectionUsers": "users",
+  "collectionScores": "scores",
+  "collectionCards_es": "cards_es",
+  "collectionCards_fr": "cards_fr",
+  "user": "",
+  "password": ""
+} 
